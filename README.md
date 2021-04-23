@@ -11,4 +11,4 @@ on line 211, just add in the string and a var to add more variables to the parm 
 
 I hope you like it and enjoy it! This script right here caused me to lose access to stackover flow from asking question. Thank you stackover, if you all had the ability to see this work, you would ultimately downvote it.
 
-But I didnt need your help with it :) So thank you. Fully automated task that scales to any size symbol list 10,000 - 200,000 items, it doesnt care it's fully automated. 
+But I didnt need your help with it :) So thank you. Fully automated task that scales to any size symbol list 10,000 - 200,000 items, it doesnt care, it's fully automated. 
