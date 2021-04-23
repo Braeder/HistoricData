@@ -1,5 +1,5 @@
 # HistoricData
-Get requests from FinancialModelingPrep.com for All US TICKERS Filtered. 
+Get requests from FinancialModelingPrep.com for All US TICKERS Filtered with qutoe and volume data. 
 You can run this node script to get all US symbols, and filter them how you wish based on several different parameters.
 First part of the script gets all symbols across the globe for every exchange.
 Second part of the script then filters the symbols to only the US market.
